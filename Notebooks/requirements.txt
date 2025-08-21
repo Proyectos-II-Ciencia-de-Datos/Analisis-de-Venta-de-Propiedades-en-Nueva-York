@@ -6,3 +6,4 @@ gdown==5.2.0
 plotly==5.24.1
 seaborn==0.13.2
 scikit-learn==1.5.2
+statsmodels==0.14.2
