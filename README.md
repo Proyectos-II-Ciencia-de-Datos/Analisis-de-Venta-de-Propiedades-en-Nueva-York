@@ -19,7 +19,7 @@ Resultados principales: conclusiones rápidas o hallazgos (ej. “La mayoría de
 Instrucciones de uso: cómo abrir el dashboard, cómo correr los scripts, cómo explorar los mapas.
 Autores/Colaboradores: poner tu nombre y el de quien participó.
 
-📑 [Informe: Análisis del Acceso a las TICs](Informe/Análisis%20del%20Acceso%20a%20las%20TICs.pdf)
+📑 [Informe: Análisis de Venta de Propiedades en Nueva York](Informe/EDA%20-%20Venta%20de%20Propiedades%20en%NY.pdf)
 
 
 
