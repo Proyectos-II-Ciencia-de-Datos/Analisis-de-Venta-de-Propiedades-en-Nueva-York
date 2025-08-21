@@ -8,6 +8,8 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=flat&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![PyPI - Version](https://img.shields.io/pypi/v/statsmodels?label=statsmodels)
+
 
 
 Según chatgpt:
